@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "./out/game.js",
+    "sourceRoot": "./",
+    "rootDir": "./",
+    "inlineSourceMap": true,
+    "inlineSources": true
+  },
+  "exclude": [
+  ]
+}
